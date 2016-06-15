@@ -51,7 +51,7 @@ License: You must have a valid license purchased only from themeforest(the above
             <div class="row">
                 <div class="col-md-12 coming-soon-header">
                     <a class="brand" href="/">
-                        <img src="{{ asset('themes/metronic/assets/pages/img/JVACargo Text.png') }}" alt="logo" /> </a>
+                        <img src="{{ asset('themes/metronic/assets/pages/img/JVA CF LOGO FINAL.png') }}" alt="logo" /> </a>
                 </div>
             </div>
             <div class="row">

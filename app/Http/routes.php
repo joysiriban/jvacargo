@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/coming-soon', function () {
     return view('pages.comingsoon');
 });
+
+Route::get('/', [
+        'as' => 'home', 'uses' => 'IndexController@index'
+    ]);
