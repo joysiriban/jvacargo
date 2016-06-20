@@ -51,22 +51,22 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">JVA Cargo Freight, Inc.</a>
+                <a class="navbar-brand" href="#"><img style="width:80%;" src="{{ asset('themes/metronic/assets/pages/img/JVACargoLogo.png') }}"/></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-right navbar-nav">
                     <li>
-                        <a href="#about">About Us</a>
+                        <a href="#about" style="color:#0067bb; border-radius: 10px; background: #FFFFFF; margin: 10px 10px 10px 10px; ">About Us</a>
                     </li>
                     <li>
-                        <a href="#services">Services</a>
+                        <a href="#services" style="color:#0067bb; border-radius: 10px; background: #FFFFFF; margin: 10px 10px 10px 10px;">Services</a>
                     </li>
                     <li>
-                        <a href="#profile">Profile</a>
+                        <a href="#profile" style="color:#0067bb; border-radius: 10px; background: #FFFFFF; margin: 10px 10px 10px 10px;">Profile</a>
                     </li>
                     <li>
-                        <a href="#contact">Contact Us</a>
+                        <a href="#contact" style="color:#0067bb; border-radius: 10px; background: #FFFFFF; margin: 10px 10px 10px 10px;">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -137,15 +137,15 @@
                 <div class="col-md-4">
                     <div class="service-box">
                         <h3 style="color:#FFFFFF;">Air Freight Management</h3>
-                        <p style="color:#FFFFFF; font-size:16px;">Utilizing our global network of agents, GIF provides clients with a full range of import and export air freight services. We have the flexibility to tailor our service to suit your needs, whatever the requirements. We go as far as pre-selecting airlines that cater to your shipment and service needs and suggesting other cost saving alternatives for your consideration.</p>
-                        <p style="color:#FFFFFF;  font-size:16px;">Due to the high and fast demands of international air freight, with GIF and our worldwide agency network, we provide efficient communications to our customers with fast and accurate information about their shipment status. Our close relationships with the airlines ensure that customers will enjoy the best service all the time.</p>
+                        <p style="color:#FFFFFF; font-size:16px;">Utilizing our global network of agents, JVA Cargo Freight, Inc. provides clients with a full range of import and export air freight services. We have the flexibility to tailor our service to suit your needs, whatever the requirements. We go as far as pre-selecting airlines that cater to your shipment and service needs and suggesting other cost saving alternatives for your consideration.</p>
+                        <p style="color:#FFFFFF;  font-size:16px;">Due to the high and fast demands of international air freight, with JVA Cargo Freight, Inc. and our worldwide agency network, we provide efficient communications to our customers with fast and accurate information about their shipment status. Our close relationships with the airlines ensure that customers will enjoy the best service all the time.</p>
                     </div>
                 </div>
                 <div class="col-md-4">                    
                     <div class="service-box">
                         <h3 style="color:#FFFFFF;">Sea Freight Management</h3>
                         <p style="color:#FFFFFF;  font-size:16px;">Sea shipment through containerization is the ideal choice for freight of relatively large proportions. Containerized freight includes everything from auto parts and machinery components to shoes, toys, and frozen meat and seafood. Being a company based on a modern and dynamic structure with a world-wide network of agents and correspondents, we offer a complete range of services for national and international sea freight forwarding.</p>
-                        <p style="color:#FFFFFF;  font-size:16px;">Here at GIF, we manage your sea cargo with professionalism and have a dedicated team that will ensure your cargo sails, delivers, and arrives on time at the destination of your choice. We can guarantee on-time departures, consistent transit time, along with competent and excellent service.</p>
+                        <p style="color:#FFFFFF;  font-size:16px;">Here at JVA Cargo Freight, Inc., we manage your sea cargo with professionalism and have a dedicated team that will ensure your cargo sails, delivers, and arrives on time at the destination of your choice. We can guarantee on-time departures, consistent transit time, along with competent and excellent service.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -165,7 +165,7 @@
                 <div class="col-md-4 col-md-offset-1">
                     <div class="service-box-black">
                         <h3 style="color:#000000;">Transportation and Logistics</h3>
-                        <p style="color:#000000; font-size:16px;">When you want your business to use the most efficient methods available for transportation and order fulfillment, GIF can provide a solution to meet your total logistics and distribution needs. Keeping in view the need of a professional logistics service provider to and from Metro Manila, our logistics department is able to fulfill all your logistics needs within and outside the metropolis. We offer door to door deliveries locally and globally as well.</p>
+                        <p style="color:#000000; font-size:16px;">When you want your business to use the most efficient methods available for transportation and order fulfillment, JVA Cargo Freight, Inc. can provide a solution to meet your total logistics and distribution needs. Keeping in view the need of a professional logistics service provider to and from Metro Manila, our logistics department is able to fulfill all your logistics needs within and outside the metropolis. We offer door to door deliveries locally and globally as well.</p>
                         <p style="color:#000000;  font-size:16px;">Our transportation department offers full documentation of necessary transit permits and provides a full range of boned transportation (before sea port customs) to all up-country dry port stations using train and delivery trucks. Non-bonded transportation (after sea port customs) is offered across destinations in all cities, towns, and villages within Metro Manila.</p>
                     </div>
                 </div>
@@ -173,7 +173,7 @@
                     <div class="service-box-black">
                         <h3 style="color:#000000;">Packaging</h3>
                         <p style="color:#000000;  font-size:16px;">Our skilled packers provide all types of packaging services at our warehouse or through out-calls at the door of the client. Entire packaging of the cargo is done as per the customer's requirements with consideration on the condition of the goods to be packed. This is done with a range of materials that we can provide,( i.e. brown paper, corrugated sheets, bubble sheets, Waterproof polythene, etc.) Additionally, we cater to the wrapping of extremely fragile items and can offer special wrapping of all effects meant for overseas shipping. </p>
-                        <p style="color:#000000;  font-size:16px;">GIF considers packaging is another value added service that we are proud to offer. Whatever the form of packaging for whatever type of cargo, our expertise in this area ensures protection for cargo while it is on transit.</p>
+                        <p style="color:#000000;  font-size:16px;">JVA Cargo Freight, Inc. considers packaging is another value added service that we are proud to offer. Whatever the form of packaging for whatever type of cargo, our expertise in this area ensures protection for cargo while it is on transit.</p>
                     </div>
                 </div>         
             </div>
@@ -187,7 +187,7 @@
                     <div class="service-box">
                         <h3 style="color:#FFFFFF;">Marine Insurance</h3>
                         <p style="color:#FFFFFF; font-size:16px;">With the advent of globalization, today's business needs entail companies to have the ability send products to another country as a fundamental requirement. To be able to protect these companies, a dependable marine insurance policy is needed to avoid unnecessary losses from any untoward event not in their control. </p>
-                        <p style="color:#FFFFFF;  font-size:16px;">GIF accredited Insurances offers services to provide clients security for their safety in freight transport and cover goods moving by air, sea, land or any combination thereof.</p>
+                        <p style="color:#FFFFFF;  font-size:16px;">JVA Cargo Freight, Inc. accredited Insurances offers services to provide clients security for their safety in freight transport and cover goods moving by air, sea, land or any combination thereof.</p>
                         <ul style="color:#FFFFFF;  font-size:16px;">
                             Insurance Advantages:
                             <li>Door to door</li>
@@ -202,13 +202,13 @@
                 <div class="col-md-4">                    
                     <div class="service-box">
                         <h3 style="color:#FFFFFF;">Warehousing</h3>
-                        <p style="color:#FFFFFF;  font-size:16px;">GIF provides public and contract warehousing for a wide range of markets. The company conducts its storage services at warehouse facilities that enjoy 24-hour security and specific docks with strategic entry and exit points for more efficient loading and unloading. Our customers can enjoy the economies of scale by trusting their merchandise with our flexible warehousing services.</p>
+                        <p style="color:#FFFFFF;  font-size:16px;">JVA Cargo Freight, Inc. provides public and contract warehousing for a wide range of markets. The company conducts its storage services at warehouse facilities that enjoy 24-hour security and specific docks with strategic entry and exit points for more efficient loading and unloading. Our customers can enjoy the economies of scale by trusting their merchandise with our flexible warehousing services.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="service-box">
                         <h3 style="color:#FFFFFF;">Project Handling</h3>
-                        <p style="color:#FFFFFF;  font-size:16px;">The Project division is the latest addition to our range of services. The complexity of project cargo transportation calls for special expertise and experience. There is no load too big or a job too complex for GIF project cargo team. Our experience enables us to identify the most cost effective route, ensuring the timely delivery and security of our client's equipment while in transit.</p>
+                        <p style="color:#FFFFFF;  font-size:16px;">The Project division is the latest addition to our range of services. The complexity of project cargo transportation calls for special expertise and experience. There is no load too big or a job too complex for JVA Cargo Freight, Inc. project cargo team. Our experience enables us to identify the most cost effective route, ensuring the timely delivery and security of our client's equipment while in transit.</p>
                         <p style="color:#FFFFFF;  font-size:16px;">Movement of project cargo does not fall within the standard measurement or procedures of today, thus entails special equipment and handling. That is why our specialists offer solutions for professional handling of oversized and heavy shipments. This coupled with all the necessary equipment, experts, and resources to handle the most complex haulage projects make us the partner of choice.</p>
                     </div>
                 </div>            
@@ -264,7 +264,7 @@
 
         <hr>
         <footer>
-            <div class="row">
+            <div class="row text-left">
                 <div class="col-lg-12">
                     <p>Copyright &copy; JVA Cargo Freight, Inc. 2016</p>
                 </div>
